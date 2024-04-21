@@ -1,16 +1,13 @@
-# flutter_ui_study
+2024-04-21 Study
 
-A new Flutter project.
+리스트 기능(Listview.builder)을 이용한 페이지 이동 테스트
 
-## Getting Started
+- Listview.Builder
+- List.generate (한번 더 내용 확인할껏!)
+- Card
+- ListTile
+- Navigator
 
-This project is a starting point for a Flutter application.
+외부 위젯
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- LikeButton : https://pub.dev/packages/like_button
