@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_study/model.dart';
+import 'package:flutter_ui_study/listview_20240421/model.dart';
 //Like 버튼 컴포넌트 사용
 import 'package:like_button/like_button.dart';
 
